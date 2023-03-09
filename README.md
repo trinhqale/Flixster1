@@ -34,6 +34,12 @@ Here's a walkthrough of implemented user stories:
 
 ![Alt Text](Android_project3.gif)
 GIF created with screentogif  
+
+Additional snip of code that used Glide to add placeholder. The flixster_icon is a drawable that displays as happy popcorn image
+
+![Alt Text](Android_project3_image.png)
+
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
